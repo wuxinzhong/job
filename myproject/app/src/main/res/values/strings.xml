@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="fragment_home_jzjk">精准健康</string>
+    <string name="fragment_home_jhnc">玖慧农场</string>
+    <string name="fragment_home_wdxw">我的小屋</string>
+    <string name="fragment_home_mrjk">每日健康</string>
+    <string name="fragment_home_yszn">饮食指南</string>
+    <string name="fragment_home_cjhlysp">春节合理饮食篇</string>
+    <string name="fragment_home_ssjj">膳食讲解</string>
+    <string name="fragment_home_zjjjsshc">专家讲解膳食的好处</string>
+    <string name="fragment_home_zrht">最热话题</string>
+    <string name="fragment_home_fxjksh">发现健康生活</string>
+</resources>
